@@ -16,3 +16,10 @@ console.log(na)
 const m=7654, n=67354;
 let total=m*n;
 console.log(total)
+
+/*
+const number=4, no=1
+for(no<=10){
+    number=number*no;
+    console.log(number);
+}*/
