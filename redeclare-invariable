@@ -1,0 +1,9 @@
+//we cannot redeclare value in variable
+var x=10,y=15,z;
+z=x*y;
+console.log(z)
+//redeclare x y
+var x=5;
+var y=3;
+z=x*y;
+console.log(z)
