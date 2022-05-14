@@ -26,3 +26,6 @@ console.log(t);
 //for decrement
 var h=--n2
 console.log(h);
+//for decrement
+var h=++n2
+console.log(h);
