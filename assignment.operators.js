@@ -11,4 +11,4 @@ x%=y
 console.log(x)
 x**=y
 console.log(x)
-//same as we use in arthematic section but its more short and easy
+//same as we use in arthematic section but its more short and easyyy
