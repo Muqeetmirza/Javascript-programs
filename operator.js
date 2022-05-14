@@ -12,6 +12,9 @@ z=x*y;
 console.log(z);
 z=x%y;
 console.log(z);
+//exponental operator "Multipy 1st value with the square of second"
+z=x**y;
+console.log(z)
 //we can also add text values throug it like
 let a="ali", b=" haider",c="M.",d;
 d=c+a+b;
@@ -27,5 +30,6 @@ console.log(t);
 var h=--n2
 console.log(h);
 //for decrement
-var h=++n2
-console.log(h);
+let hh=10;
+--hh
+console.log(hh);
