@@ -19,3 +19,4 @@ let lastindex=strr.lastIndexOf("m");
 console.log(lastindex);
 //it shows the index of last string
 //Both indexOf(), and lastIndexOf() return -1 if the text is not found:
+//Both indexOf(), and lastIndexOf() return -1 if the text is not found:

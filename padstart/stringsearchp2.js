@@ -17,5 +17,5 @@ console.log(ind);
 
 The search() method cannot take a second start position argument.
 The indexOf() method cannot take powerful search values (regular expressions). */
-
+//The search() method cannot take a second start position argument.
 
